@@ -28,3 +28,4 @@ public class Echantillon {
         this.prixMoyen = prixMoyen;
     }
 }
+#aa
